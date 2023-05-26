@@ -1,0 +1,26 @@
+/* Write your code here. */
+.main-container {
+  min-height: 100vh;
+  padding: 50px;
+}
+.img-con {
+  height: 100%;
+  width: 100%;
+}
+.img-edit {
+  height: 70vh;
+  width: 90vw;
+}
+.head {
+  font-size: 15px;
+  color: #1e293b;
+}
+.para {
+  font-size: 15px;
+  color: #64748b;
+}
+.thumbnail-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}

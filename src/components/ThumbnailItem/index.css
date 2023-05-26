@@ -1,0 +1,12 @@
+/* Write your code here. */
+.thumbnail-edit {
+  height: 80px;
+  width: 100px;
+  opacity: 0.5;
+}
+.active-effect {
+  opacity: 1;
+}
+.list-cont {
+  list-style-type: none;
+}
